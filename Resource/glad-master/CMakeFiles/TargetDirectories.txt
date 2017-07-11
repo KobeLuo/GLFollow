@@ -1,0 +1,3 @@
+/Users/Kobe/Development/Research/OpenGL/Resource/glad-master/CMakeFiles/glad.dir
+/Users/Kobe/Development/Research/OpenGL/Resource/glad-master/CMakeFiles/ALL_BUILD.dir
+/Users/Kobe/Development/Research/OpenGL/Resource/glad-master/CMakeFiles/ZERO_CHECK.dir
